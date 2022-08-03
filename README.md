@@ -6,8 +6,8 @@
 <p text align = "left">HC-SR04 ultrasonic distance meter</p>
 
 <h1 text align = "center"> Installation </h1>
-<p text align = "left">SDA -> trig of ultrasonic module to pin 2</p>
-<p text align = "left">CLK -> echo of ultrasonic module to pin 3</p>
+<p text align = "left">2 -> trig of ultrasonic module</p>
+<p text align = "left">3 -> echo of ultrasonic module</p>
 <p text align = "left">CLK -> 5 of display module</p>
 <p text align = "left">DIO -> 4 of display module</p>
 
